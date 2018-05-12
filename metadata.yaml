@@ -25,6 +25,8 @@ creator:
 description: '[v. 1] Ade''s fables. Garden City, N.Y., 1914.--[v. 2] Doc Horne. Chicago,
   1899.--[v. 3] More fables. Chicago, 1900.--[v. 4] The girl proposition. New York,
   1902.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20510#Ade-s-Fables
 gutenberg_issued: '2007-02-02'
 gutenberg_type: Text
 identifiers:
