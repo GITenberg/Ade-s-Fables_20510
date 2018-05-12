@@ -1,0 +1,41 @@
+_repo: Ade-s-Fables_20510
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McCutcheon, John T. (John Tinney)
+    aliases:
+    - McCutcheon, J. T. (John Tinney)
+    - McCutcheon, John Tinney
+    birthdate: 1870
+    deathdate: 1949
+    gutenberg_agent_id: '8700'
+    url: http://www.gutenberg.org/2009/agents/8700
+    wikipedia: http://en.wikipedia.org/wiki/John_T._McCutcheon
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ade, George
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '3917'
+    url: http://www.gutenberg.org/2009/agents/3917
+    wikipedia: http://en.wikipedia.org/wiki/George_Ade
+description: '[v. 1] Ade''s fables. Garden City, N.Y., 1914.--[v. 2] Doc Horne. Chicago,
+  1899.--[v. 3] More fables. Chicago, 1900.--[v. 4] The girl proposition. New York,
+  1902.'
+gutenberg_issued: '2007-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fables'
+- !lcc 'PS'
+- !lcsh 'American wit and humor'
+title: Ade's Fables
+url: http://www.gutenberg.org/ebooks/20510
